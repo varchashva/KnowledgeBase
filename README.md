@@ -1,5 +1,7 @@
 ## UPDATE
 Going forward, I am and will continue sharing knowledge at [Medium Blogs](https://medium.com/@rana.miet). Thanks!
+ - [Learn to say NO to almost every vulnerability (intro to vPrioritizer)
+](https://medium.com/@rana.miet/learn-to-say-no-to-almost-every-vulnerability-intro-to-vprioritizer-9b2aa15369a1)
  - [My notes for “AWS Certified Security — Specialty”](https://medium.com/@rana.miet/my-notes-for-aws-certified-security-specialty-e3fcafbfd924)
  - [Information Security — What, Why, How…](https://medium.com/@rana.miet/information-security-what-why-how-462a1ae8fa61)
  - [Found IDOR? Can you enumerate identifiers (references)?](https://medium.com/@rana.miet/found-idor-can-you-enumerate-identifiers-references-4820a2ec104d)
