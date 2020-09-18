@@ -1,5 +1,6 @@
 ## UPDATE
 Going forward, I am and will continue sharing knowledge at [Medium Blogs](https://medium.com/@rana.miet). Thanks!
+ - [A day in the life of a penetration tester!](https://medium.com/@rana.miet/a-day-in-the-life-of-a-penetration-tester-7444784a795c)
  - [Learn to say NO to almost every vulnerability (intro to vPrioritizer)
 ](https://medium.com/@rana.miet/learn-to-say-no-to-almost-every-vulnerability-intro-to-vprioritizer-9b2aa15369a1)
  - [My notes for “AWS Certified Security — Specialty”](https://medium.com/@rana.miet/my-notes-for-aws-certified-security-specialty-e3fcafbfd924)
