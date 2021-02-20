@@ -1,5 +1,6 @@
 ## UPDATE
 Going forward, I am and will continue sharing knowledge at [Medium Blogs](https://medium.com/@rana.miet). Thanks!
+ - [Difference between red teaming and penetration testing](https://medium.com/@rana.miet/difference-between-red-teaming-and-penetration-testing-17c98c3dc011)
  - [A day in the life of a penetration tester!](https://medium.com/@rana.miet/a-day-in-the-life-of-a-penetration-tester-7444784a795c)
  - [Learn to say NO to almost every vulnerability (intro to vPrioritizer)
 ](https://medium.com/@rana.miet/learn-to-say-no-to-almost-every-vulnerability-intro-to-vprioritizer-9b2aa15369a1)
